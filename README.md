@@ -1,2 +1,3 @@
-# vscode
-For education
+# JavaScript
+
+Ivan was here :P
